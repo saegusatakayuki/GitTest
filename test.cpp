@@ -1,4 +1,0 @@
-void testfuncton()
-{
-	printf("testtest");
-}
